@@ -15,18 +15,18 @@ Intern @ MRT Corp, Kuala Lumpur
 - oversee production of Viaduct
 
 ### Skills
-Clip Studio Paint - Excellent
-Microsoft Office Applications - Very Good
-AutoCAD - Very Good
-Microsoft Visual Studio - Good
-Blender - Good
-Sony Vegas Pro - Good
-Cisco Packet Tracer - Moderate
+- Clip Studio Paint - Excellent
+- Microsoft Office Applications - Very Good
+- AutoCAD - Very Good
+- Microsoft Visual Studio - Good
+- Blender - Good
+- Sony Vegas Pro - Good
+- Cisco Packet Tracer - Moderate
 
 ### Programming Languages
-C Programming - Good
-Python Programming - Good
-Arduino Programming - Good
+- C Programming - Good
+- Python Programming - Good
+- Arduino Programming - Good
 
 link to the website :-
 https://turtleplum.github.io/FarizHassan.github.io/
