@@ -1,7 +1,7 @@
 # Cyber Security Graduate
 
 ### Education
-- Bachelor's Degree in Computer Science (Hons) Cyber Security (_Oct 2023_) @ Asia Pacific University, Kuala Lumpur & De Monfort University, Leicester
+- Bachelor's Degree in Computer Science (Hons) Cyber Security (_Oct 2023_) @ Asia Pacific University, Kuala Lumpur & De Montfort University, Leicester
 - Diploma in Building (_May 2020_) @ UiTM Sri Iskandar, Perak
 
 ### Work Experience
