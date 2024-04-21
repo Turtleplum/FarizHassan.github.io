@@ -1,8 +1,8 @@
 # Cyber Security Specialist 
 
 ### Education
-Bachelor's Degree in Computer Science (Hons) Cyber Security @ Asia Pacific University, Kuala Lumpur
-Diploma in Building @ UiTM Sri Iskandar, Perak
+- Bachelor's Degree in Computer Science (Hons) Cyber Security @ Asia Pacific University, Kuala Lumpur
+- Diploma in Building @ UiTM Sri Iskandar, Perak
 
 ### Work Experience
 Junior Programmer Intern @ Syswell IoT, Kuala Lumpur
@@ -14,7 +14,7 @@ Junior Programmer Intern @ Syswell IoT, Kuala Lumpur
 Intern @ MRT Corp, Kuala Lumpur
 - oversee production of Viaduct
 
-### Skills
+#### Skills
 - Clip Studio Paint - Excellent
 - Microsoft Office Applications - Very Good
 - AutoCAD - Very Good
@@ -23,7 +23,7 @@ Intern @ MRT Corp, Kuala Lumpur
 - Sony Vegas Pro - Good
 - Cisco Packet Tracer - Moderate
 
-### Programming Languages
+#### Programming Languages
 - C Programming - Good
 - Python Programming - Good
 - Arduino Programming - Good
