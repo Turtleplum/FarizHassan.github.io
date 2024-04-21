@@ -33,4 +33,4 @@
 - Malay | Native Speaker | Excellent Writer
 - English | Fluent Speaker | Excellent Writer
 
-[View My Resume](/assets/files/resume.html)
+[Download My Resume](/assets/files/resume.html)
