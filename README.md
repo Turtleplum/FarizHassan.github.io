@@ -33,5 +33,5 @@
 - Malay | Native Speaker | Excellent Writer
 - English | Fluent Speaker | Excellent Writer
 
-link to the website :-
-https://turtleplum.github.io/FarizHassan.github.io/
+link to the resume file:-
+<a href="{{ site.resume_url }}" download="Resume_Name.pdf">Download My Resume</a>
