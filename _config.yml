@@ -4,3 +4,4 @@ logo: /assets/img/myphoto.gif
 #show_downloads: true
 resume_url: /assets/files/resume.pdf
 theme: jekyll-theme-minimal
+<a href="{{ site.resume_url }}" download="resume.pdf">Click Here to Download my Resume</a>
