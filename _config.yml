@@ -1,5 +1,6 @@
 title: Fariz Hassan
 logo: /assets/img/myphoto.gif
 #description: a Malaysian
-#show_downloads: true
+show_downloads: true
+resume_url: /assets/files/Fariz Resume Latest 2024.pdf
 theme: jekyll-theme-minimal
