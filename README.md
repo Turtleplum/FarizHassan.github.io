@@ -34,4 +34,4 @@
 - English | Fluent Speaker | Excellent Writer
 
 link to the resume file:-
-<a href="{{ site.resume_url }}" download="Resume_Name.pdf">Download My Resume</a>
+<a href="{{ site.resume_url }}" download="resume.pdf">Download My Resume</a>
