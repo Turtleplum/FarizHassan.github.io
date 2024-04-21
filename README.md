@@ -33,4 +33,4 @@
 - Malay | Native Speaker | Excellent Writer
 - English | Fluent Speaker | Excellent Writer
 
-<a href="{{ site.resume_url }}" download="resume.pdf">Click Here to Download my Resume</a>
+[View My Resume](/assets/files/resume.html)
