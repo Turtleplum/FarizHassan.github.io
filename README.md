@@ -1,8 +1,8 @@
 # Cyber Security Graduate
 
 ### Education
-- Bachelor's Degree in Computer Science (Hons) Cyber Security (_Oct 2023_) @ Asia Pacific University, Kuala Lumpur & De Montfort University, Leicester
-- Diploma in Building (_May 2020_) @ UiTM Sri Iskandar, Perak
+- Bachelor's Degree in Computer Science (Hons) Cyber Security (_Oct 2023_) @ Asia Pacific University, Kuala Lumpur & De Montfort University, Leicester - (_CGPA: 3.06_)
+- Diploma in Building (_May 2020_) @ UiTM Sri Iskandar, Perak - (_CGPA: 3.29_)
 
 ### Work Experience
 **Junior Programmer Intern @ Syswell IoT, Kuala Lumpur (_Oct 2022 - Jan 2023_)**
