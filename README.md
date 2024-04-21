@@ -12,8 +12,8 @@
 - Telnet Implementation
 
 **Intern @ MRT Corp, Kuala Lumpur (_Aug 2019 - Dec 2019_)**
-- oversee production of Viaduct
-- onsite rectification pioneer
+- Oversee production of Viaduct
+- Onsite rectification pioneer
 
 #### Skills
 - Clip Studio Paint - Excellent
