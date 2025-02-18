@@ -7,6 +7,13 @@
 (_CGPA: 3.29_)
 
 ### Work Experience
+**Junior Software Engineer @ Datakraf Solutions, Kuala Lumpur (_Sept 2024 - Current_)**
+- Worked on a simple scraper program
+- Designed a mock - up one stop centre website
+- co - designed a mock up system for a client
+- co - lead design for a Figma Prototype
+- Co - Wrote "Business Requirement System (BRS)" & "Business Design Specification (SDS)"
+
 **Junior Programmer Intern @ Syswell IoT, Kuala Lumpur (_Oct 2022 - Jan 2023_)**
 - Improving a dedicated Smart Control System in office
 - Over-the-Air (OTA) System implementation
