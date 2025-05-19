@@ -26,12 +26,14 @@
 
 #### Skills
 - Clip Studio Paint - Excellent
+- Figma - Excellent
 - Microsoft Office Applications - Very Good
 - AutoCAD - Very Good
 - Microsoft Visual Studio - Good
 - Blender - Good
 - Sony Vegas Pro - Good
 - Cisco Packet Tracer - Moderate
+
 
 #### Programming Languages
 - C Programming - Good
